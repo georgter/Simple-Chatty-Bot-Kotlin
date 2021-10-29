@@ -2,7 +2,7 @@ package bot
 
 import java.util.Scanner
 
-
+// test clon
 val scanner = Scanner(System.`in`) // Do not change this line
 
 fun main() {
